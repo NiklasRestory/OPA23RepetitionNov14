@@ -14,7 +14,7 @@ public class EmployeeHandler {
     }
 
 
-
+    // I have added a comment!
     Scanner scanner = new Scanner(System.in);
     public void mainMenu() {
         while (true)
