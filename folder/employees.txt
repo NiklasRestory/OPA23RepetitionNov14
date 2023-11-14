@@ -1,0 +1,3 @@
+Jim,23,Artist,200000,Jim CO
+Jake,26,Painter,5000,Jake CO
+Bob,34,Taxi Driver,843573,Bob's Taxi

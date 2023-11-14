@@ -15,6 +15,11 @@ public class Employee {
         this.company = company;
     }
 
+    public String getCSV() {
+        return name + "," + age + "," + occupation
+                    + "," + salary + "," + company;
+    }
+
     public String getName() {
         return name;
     }
